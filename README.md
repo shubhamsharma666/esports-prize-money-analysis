@@ -1,4 +1,3 @@
-# esports-prize-money-analysis
 # Esports Prize Money Analysis
 
 ## Overview
